@@ -11,7 +11,7 @@ Welcome to the **Daily LeetCode DSA Solutions** repository! 🚀 Here, I upload 
   - To maintain a well-documented library of LeetCode solutions for quick reference.
   
 - **Programming Language:**  
-  - The primary language used is **C++**.
+  - The primary language used is **JavaScript, Java**.
 
 - **Topics Covered:**  
   - Arrays & Strings  
@@ -27,4 +27,5 @@ Welcome to the **Daily LeetCode DSA Solutions** repository! 🚀 Here, I upload 
 
 ## 🗂️ **Folder Structure**
 The repository is organized in a simple and clear manner for easy navigation:
+📂 Daily-LeetCode-DSA ├── 📂 Arrays ├── 📂 Strings ├── 📂 LinkedLists ├── 📂 DynamicProgramming ├── 📂 Trees ├── 📂 Graphs ├── 📂 Backtracking ├── 📂 Sorting ├── 📂 Recursion └── README.md
 
